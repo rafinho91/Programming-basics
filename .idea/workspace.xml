@@ -3,6 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="c13aac62-d898-463f-95c4-823b981d7d38" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/Element.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/MyQueue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/MyStack.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/Recursion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/StackExercise.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/Tree.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/binaryTree/Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/binaryTree/Tree.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/completeTree/CompleteTree.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/completeTree/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/completeTree/Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/heap/Heap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/drugie/heap/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/pierwsze/Element.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/pierwsze/MyList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/pierwsze/Tablice.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/trzecie/BubbleSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/trzecie/InsertionSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/trzecie/LeapYear.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/trzecie/Money.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pro-podstawy/trzecie/UserInterface.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/src/drugie/MyStack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -373,12 +396,20 @@
       <workItem from="1521822354116" duration="267000" />
       <workItem from="1527347584692" duration="66000" />
       <workItem from="1527347682954" duration="77000" />
-      <workItem from="1527347776365" duration="389000" />
+      <workItem from="1527347776365" duration="466000" />
     </task>
+    <task id="LOCAL-00001" summary="gitignore">
+      <created>1527348200690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527348200690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54612000" />
+    <option name="totallyTimeSpent" value="54689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -448,6 +479,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -791,7 +826,7 @@
     <entry file="file://$PROJECT_DIR$/src/drugie/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding />
         </state>
       </provider>
